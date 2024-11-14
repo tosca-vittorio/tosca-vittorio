@@ -11,10 +11,9 @@ Sono un ingegnere informatico laureato all'Università di Catania, con una passi
 
 ## 📌 Competenze Principali
 
+- **IT per Eventi**: Tecnico per eventi e ricevimenti, specializzato nella gestione di luci, laser ed effetti visuali per creare esperienze immersive.
 - **Sviluppo Frontend**: Progettazione e sviluppo di interfacce web in **HTML5, CSS3** e **JavaScript**, con attenzione particolare al responsive design e alla user experience.
 - **Sviluppo Backend e Database Management**: Competenze nello sviluppo backend con **PHP** e **Laravel** per la creazione di applicazioni web scalabili. Esperienza nella gestione e ottimizzazione di database relazionali, utilizzando **MySQL** e **SQL** per strutturare e interrogare dati in modo efficiente.
-- **Integrazione Tecnologica**: Esperienza nell'integrazione di sistemi complessi, compreso lo sviluppo di soluzioni per l’ambito mobile e web.
-- **IT per Eventi**: Tecnico per eventi e ricevimenti, specializzato nella gestione di luci, laser ed effetti visuali per creare esperienze immersive.
 
 ---
 
